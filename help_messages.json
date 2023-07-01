@@ -1,0 +1,37 @@
+{
+    "add_server": {
+        "example": "mycsgoserver 10.20.30.40:27015 This is my description for the server",
+        "help_message": "Add server to servers database. The user must have the role of **games server manager**",
+        "usage": "<server-name> <ip:port> <server description>"
+    },
+    "del_server": {
+        "example": "mycsgoserver",
+        "help_message": "Delete server from servers",
+        "usage": "<server-name>"
+    },
+    "help": {
+        "example": "stats",
+        "help_message": "Send help message",
+        "usage": "<command-name>"
+    },
+    "info": {
+        "example": "mycsgoserver",
+        "help_message": "Send server information",
+        "usage": "<server-name>"
+    },
+    "players": {
+        "example": "mycsgoserver",
+        "help_message": "Send players and their stats",
+        "usage": "<server-name>"
+    },
+    "servers": {
+        "example": "",
+        "help_message": "Send all available servers",
+        "usage": ""
+    },
+    "stats": {
+        "example": "mycsgoserver",
+        "help_message": "Send server stats",
+        "usage": "<server-name>"
+    }
+}
