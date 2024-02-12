@@ -41,6 +41,10 @@ MONGODB_PASSWORD='MongodbPassword'
 ```  
 6. Run bot.py
 
+## 🔧Players list fix for CS2
+1. Install [AuthSessionFix](https://github.com/Source2ZE/AuthSessionFix/releases/) on your CS2 server
+2. Install [ServerListPlayersFix](https://github.com/Source2ZE/ServerListPlayersFix/releases/) on your CS2 server
+
 ## 💎Commands
 
 **!add_server** (Add game server to the database) | Required role to use this command is **games server manager**  
