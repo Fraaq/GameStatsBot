@@ -62,9 +62,9 @@ MONGODB_PASSWORD='MongodbPassword'
   * You need to create new folder in [map-thumbnails/](map-thumbnails) and the folder should have name exactly
     same as your game name without this characters \\, /, :, *, ?, ", <, >, |   
     If you don't know exactly the game name you can write !stats and the name is in field game.
-  * For example if my game is CS:GO I will write !stats and there is this name: Counter-Strike: Global Offensive  
+  * For example if my game is CS2 I will write !stats and there is this name: Counter-Strike 2 
     I will remove the special characters so my game folder inside [map-thumbnails/](map-thumbnails) should look
-    like this [map-thumbnails/Counter-Strike Global Offensive](map-thumbnails/Counter-Strike Global Offensive)
+    like this map-thumbnails/Counter-Strike 2
   
 * ### Help messages
   * Edit help messages in [help_messages.json](help_messages.json).
